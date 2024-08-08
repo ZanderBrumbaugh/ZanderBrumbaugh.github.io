@@ -85,7 +85,7 @@ work:
   - position: Researcher
     company_name: Code Metal
     company_url: 'https://www.codemetal.ai/'
-    company_logo: ''
+    company_logo: 'custom/codemetal.png'
     date_start: 2023-10-01
     date_end: ''
     summary: '' #|
