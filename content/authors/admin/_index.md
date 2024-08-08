@@ -141,13 +141,6 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: UW Dean’s List
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023'
-    awarder: University of Washington
-    summary: |
-      I’ve received this placement award throughout various quarters. 
-
   - title: SIGDOC ’23 Best Paper Award
     date: '2023-10-26'
     awarder: The 41st ACM International Conference on Design of Communication
