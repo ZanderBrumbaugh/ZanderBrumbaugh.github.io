@@ -15,4 +15,6 @@ publication_types:
 - paper-conference
 publication: '*Companion of the 2023 ACM/IEEE International Conference on Human-Robot
   Interaction*'
+links:
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3568294.3580068
 ---

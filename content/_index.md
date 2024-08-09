@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-08-08
 type: landing
 
 design:
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV.pdf
     design:
       css_class: dark
       background:
@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm an NLP researcher at the University of Washington. My research focuses on the improvement and alignment of language models for real world settings. I've recently been working on mitigating negative behaviors such as temporal misalignment and model sycophancy in language models which can affect utility and downstream task performance.
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate 🙂
     design:
       columns: '1'
   - block: collection
