@@ -150,6 +150,6 @@ awards:
 
 ## About Me
 
-Zander Brumbaugh is a programmer, game designer, technical author, and AI researcher based in Seattle, Washington. His work as an independent developer on the Roblox platform has been played nearly 500 million times. He has created popular games like My Salon,
+Zander Brumbaugh is a game designer, technical author, and AI researcher based in Seattle, Washington. His work as an independent developer on the Roblox platform has been played nearly 500 million times. He has created popular games like My Salon,
 Power Simulator, Munching Masters, and more. Zander is also a multiple-time best-selling textbook author, with works on programming
 and game development. His research has explored the current landscape, capabilities, and future of large language models. Zander is part of Noah Smith's ARK lab where his research focuses on the improvement and alignment of language models for real-world settings.
